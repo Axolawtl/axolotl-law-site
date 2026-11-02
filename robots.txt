@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axolotl.law/sitemap.xml
